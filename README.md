@@ -2,13 +2,10 @@
 
 ### Initial
 
-    - [*]  Project structure
-    - [ ] Css
+- [*] Project structure
+- [ ] Css
 
-## Improvements
+### Improvements
 
-- [ ] Write semantic html
-    - [ ] Scss
-
-
-- [*]  Project structure
+- [ ] Semantic html
+- [ ] Scss
