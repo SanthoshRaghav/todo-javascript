@@ -1,3 +1,9 @@
-# Todo 
+# Todo
 
-- [ ] Creating project structure
+## Initial
+    - [*] Creating project structure
+    - [ ] Css
+
+## Improvements
+    - [ ] Write semantic html
+    - [ ] Scss
