@@ -1,1 +1,3 @@
-# Todo javascript
+# Todo 
+
+- [ ] Creating project structure
