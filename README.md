@@ -1,4 +1,4 @@
-# Todo
+# Todo ✔️
 
 ### Initial
 
@@ -9,3 +9,4 @@
 
 - [ ] semantic html
 - [ ] scss
+- [ ] BEM
