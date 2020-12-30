@@ -3,7 +3,7 @@
 ### Initial
 
 - [x] project structure
-- [ ] css
+    - [ ] css
 
 ### Improvements
 
