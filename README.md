@@ -15,25 +15,26 @@
 
 - [ ] background-image: linear-gradient(120deg, #f6d365, #fda085);
 - [ ] pointerevents:none
+
 # My Medical History 💗
 
-### Features
+## Features
 
 -   [ ] &nbsp; Store medical prescriptions.
 -   [ ] &nbsp; Share prescriptions with family members, doctors, etc.
 -   [ ] &nbsp; Health trackers
 
-### Project
+## Project
 
-##### Improvements
+#### Improvements
 
 -   [ ] &nbsp; css
 
-##### Done
+#### Done
 
 -   [x] &nbsp; editorconfig file added to the project
 
-##### Need
+#### Need
 
 -   [ ] &nbsp; webpack
 -   [ ] &nbsp; Improvements
