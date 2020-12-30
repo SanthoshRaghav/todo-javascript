@@ -49,15 +49,15 @@
 
 ### Project
 
-#### Improvements
+#### Improvements ⚡
 
--   [ ] &nbsp; css
+-   [ ] &nbsp; Css
 
-#### Done
+#### Done 👍
 
 -   [x] &nbsp; editorconfig file added to the project
 
-#### Need
+#### Need 🍺
 
 -   [ ] &nbsp; webpack
 -   [ ] &nbsp; Improvements
