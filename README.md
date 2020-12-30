@@ -34,7 +34,7 @@
 
 -   [x] &nbsp; editorconfig file added to the project
 
-> Need
+**Need**
 
 -   [ ] &nbsp; webpack
 -   [ ] &nbsp; Improvements
