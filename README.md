@@ -34,11 +34,31 @@
 
 -   [x] &nbsp; editorconfig file added to the project
 
-**Need**
+> Need
 
 -   [ ] &nbsp; webpack
 -   [ ] &nbsp; Improvements
 
-- __[pica]
-__[pica]
+# My Medical History 💗
+
+> Features
+
+-   [ ] &nbsp; Store medical prescriptions.
+-   [ ] &nbsp; Share prescriptions with family members, doctors, etc.
+-   [ ] &nbsp; Health trackers
+
+> Project
+
+#### Improvements
+
+-   [ ] &nbsp; css
+
+#### Done
+
+-   [x] &nbsp; editorconfig file added to the project
+
+#### Need
+
+-   [ ] &nbsp; webpack
+-   [ ] &nbsp; Improvements
 
