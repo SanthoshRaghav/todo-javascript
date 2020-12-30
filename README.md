@@ -39,3 +39,5 @@
 -   [ ] &nbsp; webpack
 -   [ ] &nbsp; Improvements
 
+> **This is bold text**
+
