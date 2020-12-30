@@ -49,17 +49,11 @@
 
 ### Frontend Folder Structure
 
--   components
-    -   ui - header, footer, navigation, etc.
-    -   elements - html elements like button, inputs, etc.
--   layouts : we make a template container component and place the ui components.
--   pages : pages like home, checkout, etc. each and every page has a specific layout.
-
-| Folder     | Description                                                                                    |
-| ---------- | ---------------------------------------------------------------------------------------------- |
-| components | ui - header, footer, navigation, etc. <br/> elements - html elements like button, inputs, etc. |
-| layouts    | we make a template container component and place the ui components.                            |
-| pages      | pages like home, checkout, etc. each and every page has a specific layout.                     |
+| Folder     | Description                                                                                 |
+| ---------- | ------------------------------------------------------------------------------------------- |
+| components | ui - header, footer, navigation, etc. <br/> utils - html elements like button, inputs, etc. |
+| layouts    | we make a template container component and place the ui components.                         |
+| pages      | pages like home, checkout, etc. each and every page has a specific layout.                  |
 
 ### Project
 
@@ -76,5 +70,3 @@
 
 -   [ ] &nbsp; webpack
 -   [ ] &nbsp; prettier need to add to the workspace
-
-
