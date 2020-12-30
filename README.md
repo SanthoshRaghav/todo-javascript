@@ -36,7 +36,6 @@
 <details>
   <summary>Click to expand!</summary>
   
-  ## Heading
   - [ ] pointerevents:none
   1. A numbered
   2. list
