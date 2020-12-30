@@ -16,45 +16,25 @@
 - [ ] background-image: linear-gradient(120deg, #f6d365, #fda085);
 - [ ] pointerevents:none
 
-
-# My Medical History
-
-## Features
-
--   [ ] Store medical prescriptions.
-    -   [ ] Share prescriptions with family members, doctors, etc.
--   [ ] Health trackers
-
-## Project
-
-    -   [x]   editorconfig file added
-
-#### Needs
-
--   [ ] webpack
-
-<details>
-  <summary>Click to expand!</summary>
-  
-  ####  
-  - [ ] pointerevents:none
-  1. A numbered
-  2. list
-     * With some
-     * Sub bullets
-</details>
-
-
-# My Medical History
+# My Medical History 💗
 
 ## Features
 
--   [ ] Store medical prescriptions.
--   [ ] Share prescriptions with family members, doctors, etc.
--   [ ] Health trackers
+- [ ] &nbsp; Store medical prescriptions.
+- [ ] &nbsp; Share prescriptions with family members, doctors, etc.
+- [ ] &nbsp; Health trackers
 
 ## Project
 
-1.  Done
-    1.   -  [ ] test
+#### Improvements
 
+- [ ] &nbsp; css
+
+#### Done
+
+- [x] &nbsp; editorconfig file added to the project
+
+#### Need
+
+- [ ] &nbsp;  webpack
+- [ ] &nbsp;  Improvements
