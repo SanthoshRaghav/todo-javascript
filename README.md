@@ -39,4 +39,6 @@
 -   [ ] &nbsp; webpack
 -   [ ] &nbsp; Improvements
 
+- __[pica]
+__[pica]
 
