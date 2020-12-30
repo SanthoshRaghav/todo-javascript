@@ -18,13 +18,13 @@
 
 # My Medical History 💗
 
-### Features
+> ### Features
 
 -   [ ] &nbsp; Store medical prescriptions.
 -   [ ] &nbsp; Share prescriptions with family members, doctors, etc.
 -   [ ] &nbsp; Health trackers
 
-### Project
+> ### Project
 
 #### Improvements
 
@@ -38,3 +38,4 @@
 
 -   [ ] &nbsp; webpack
 -   [ ] &nbsp; Improvements
+
