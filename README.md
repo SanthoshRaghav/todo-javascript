@@ -22,12 +22,12 @@
 ## Features
 
 -   [ ] Store medical prescriptions.
--   [ ] Share prescriptions with family members, doctors, etc.
+    -   [ ] Share prescriptions with family members, doctors, etc.
 -   [ ] Health trackers
 
 ## Project
 
--   [x]   editorconfig file added
+    -   [x]   editorconfig file added
 
 #### Needs
 
