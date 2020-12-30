@@ -38,5 +38,4 @@
 
     #### Needs
     -  [x] editorconfig file added
-
 </details>
