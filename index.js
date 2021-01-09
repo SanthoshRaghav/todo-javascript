@@ -22,16 +22,25 @@ const DELETE_ICON = `<svg xmlns="http://www.w3.org/2000/svg" class="delete-svg" 
  * event listeners
  */
 
-todoSubmitBtn.addEventListener('click', addTodoItem);
+todoSubmitBtn.addEventListener('click', function (e) {
+			//validating input
+			if (todoInput.value.trim() == '') {
+				todoInput.classList.add("todo-input-error");
+				setTimeout(() => {
+					todoInput.classList.remove("todo-input-error");
+				}, 2000);
+			} else {
+				addTodoItem()
+				todoInput.value = ''
+			}
+			e.preventDefault();
+		});
 
 /*
  * functions
  */
 
-function addTodoItem(e) {
-	// prevent form from submitting
-	e.preventDefault();
-
+function addTodoItem() {
 	/*
 	 * element creation
 	 */
