@@ -47,6 +47,11 @@ header h1 {
 	outline: none;
 }
 
+.todo-input-error {
+	border: 1px solid #DC3545;
+}
+
+
 /* submit */
 .todo-submit {
 	color: #1890ff;
